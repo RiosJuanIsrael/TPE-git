@@ -1,0 +1,11 @@
+
+------------------------------------------URL's al HOST----------------------------------------------------------------
+
+	https://riosjuanisrael.github.io/
+
+	https://webtitaniumfitness.000webhostapp.com/index.html    -------->  (funciona cuando quiere)
+
+
+-----------------------------------------URL a mockapi--------------------------------------------------
+
+        https://66748edb75872d0e0a96db9c.mockapi.io/api/usuarios
